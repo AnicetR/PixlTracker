@@ -1,0 +1,16 @@
+{
+    "header": {
+        "name": "globalConfig",
+        "canBeModified": false
+    },
+    "content": {
+        "url": "lol",
+        "site-name": "1px Tracker",
+        "storagePath": "storage",
+
+        "account": {
+            "user": "admin",
+            "password": "password"
+        }
+    }
+}
